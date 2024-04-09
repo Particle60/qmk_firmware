@@ -21,4 +21,5 @@
 #define MASTER_RIGHT
 
 /* PMW3360 settings. */
-#define POINTING_DEVICE_CS_PIN F0
+#define POINTING_DEVICE_CS_PIN D0
+#define SPLIT_HAND_PIN D1
